@@ -142,8 +142,8 @@ Each row is one autonomous sorting event — a distinct object crossing the zone
 
 ### Install
 ```bash
-git clone <your-repo-url>
-cd <repo>
+git clone https://github.com/AgastyaJn/Autonomous-Vision-Based-Conveyor-Sorting-System
+cd Autonomous-Vision-Based-Conveyor-Sorting-System
 python -m venv venv
 venv\Scripts\activate        # Windows  (source venv/bin/activate on Linux/Mac)
 pip install -r requirements.txt
